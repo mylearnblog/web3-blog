@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/mylearnblog/sitemap.xml
+Sitemap: https://mylearnblog.github.io/web3-blog/sitemap.xml
